@@ -3,7 +3,7 @@
 Summary:	RPM Package Manager
 Name:		rpm
 Version:	4.5
-Release:	27
+Release:	28
 License:	LGPL
 Group:		Base
 Source0:	%{name}-%{version}.tar.gz
@@ -251,11 +251,11 @@ Requires:	/usr/bin/id
 Requires:	awk
 Requires:	bzip2
 Requires:	chrpath
+Requires:	coreutils
 Requires:	cpio
 Requires:	diffutils
 Requires:	elfutils
 Requires:	file
-Requires:	fileutils
 Requires:	findutils
 Requires:	gcc
 Requires:	glibc-devel
@@ -264,9 +264,7 @@ Requires:	gzip
 Requires:	make
 Requires:	patch
 Requires:	sed
-Requires:	sh-utils
 Requires:	tar
-Requires:	textutils
 Requires:	xz
 Provides:	rpmbuild(monoautodeps)
 Provides:	rpmbuild(noauto) = 3
@@ -287,9 +285,9 @@ Additional utilities for checking Gstreamer provides in RPM packages.
 Summary:	Additional utilities for checking Java provides/requires in RPM packages
 Group:		Applications/File
 Requires:	%{name} = %{version}-%{release}
+Requires:	coreutils
 Requires:	file
 Requires:	findutils
-Requires:	mktemp
 Requires:	unzip
 
 %description javaprov
