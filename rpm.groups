@@ -1,410 +1,98 @@
 Applications
-	[cs]:		Aplikace
-	[da]:		Programmer
 	[de]:		Applikationen
-	[es]:		Aplicaciones
-	[fr]:		Applications
-	[id]:		Aplikasi
-	[is]:		Forrit
-	[it]:		Applicazioni
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó
-	[nb]:		Applikasjoner
 	[pl]:		Aplikacje
-	[pt]:		Aplicações
-	[pt_BR]:	Aplicações
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ
-	[sl]:		Programi
-	[sv]:		Tillämpningar
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸
 
 Applications/Archiving
-	[cs]:		Aplikace/Archivování
-	[da]:		Programmer/Arkivering
 	[de]:		Applikationen/Archivierung
-	[es]:		Aplicaciones/Archivar
-	[fr]:		Applications/Archivage
-	[is]:		Forrit/Şjöppun
-	[it]:		Applicazioni/Archiviazione
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¢¡¼¥«¥¤¥Ö
-	[nb]:		Applikasjoner/Arkivering
 	[pl]:		Aplikacje/Archiwizacja
-	[pt]:		Aplicações/Arquivos
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/áÒÈÉ×ÁÃÉÑ
-	[sl]:		Programi/Arhiviranje
-	[sv]:		Tillämpningar/Arkivering
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞÑ€Ñ…Ñ–Ğ²Ğ°Ñ†Ñ–Ñ
 
 Applications/Communications
-	[cs]:		Aplikace/Komunikace
-	[da]:		Programmer/Kommunikation
 	[de]:		Applikationen/Kommunikation
-	[es]:		Aplicaciones/Comunicaciones
-	[fr]:		Applications/Transmissions
-	[is]:		Forrit/Samskipti
-	[it]:		Applicazioni/Comunicazioni
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/ÄÌ¿®
-	[nb]:		Applikasjoner/Kommunikasjon
 	[pl]:		Aplikacje/Komunikacja
-	[pt]:		Aplicações/Comunicações
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/ëÏÍÍÕÎÉËÁÃÉÉ
-	[sl]:		Programi/Komunikacije
-	[sv]:		Tillämpningar/Kommunikation
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞšĞ¾Ğ¼ÑƒĞ½Ñ–ĞºĞ°Ñ†Ñ–Ñ—
 
 Applications/Console
-	[cs]:		Aplikace/Konzole
-	[da]:		Programmer/Konsol
 	[de]:		Applikationen/Konsole
-	[es]:		Aplicaciones/Consola
-	[fr]:		Applications/Console
-	[is]:		Forrit/Stjórnskjá
-	[it]:		Applicazioni/Console
-	[nb]:		Applikasjoner/Konsollet
 	[pl]:		Aplikacje/Konsola
-	[pt]:		Aplicações/Console
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/ëÏÎÓÏÌØ
-	[sv]:		Tillämpningar/Konsolen
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞšĞ¾Ğ½ÑĞ¾Ğ»ÑŒ
 
 Applications/Databases
-	[cs]:		Aplikace/Databáze
-	[da]:		Programmer/Databaser
 	[de]:		Applikationen/Datenbanken
-	[es]:		Aplicaciones/Bases de Datos
-	[fr]:		Applications/Bases de DonnÃ©es
-	[id]:		Aplikasi/Database
-	[is]:		Forrit/Gagnagrunnar
-	[it]:		Applicazioni/Database
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥Ç¡¼¥¿¥Ù¡¼¥¹
-	[nb]:		Applikasjoner/Databaser
 	[pl]:		Aplikacje/Bazy Danych
-	[pt]:		Aplicações/Bases de Dados
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/âÁÚÙ ÄÁÎÎÙÈ
-	[sl]:		Programi/Zbirke podatkov
-	[sv]:		Tillämpningar/Databaser
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ‘Ğ°Ğ·Ğ¸ Ğ´Ğ°Ğ½Ğ¸Ñ…
 
 Applications/Databases/Interfaces
-	[cs]:		Aplikace/Databáze/Rozhraní
-	[da]:		Programmer/Databaser/Grænsefladen
 	[de]:		Applikationen/Datenbanken/Schnittstellen
-	[es]:		Aplicaciones/Bases de Datos/Interfaces
-	[fr]:		Applications/Bases de donnÃ©es/Interfaces
-	[is]:		Forrit/Gagnagrunnar/Viğmót
-	[it]:		Applicazioni/Database/Interfacce
-	[nb]:		Applikasjoner/Databaser/Grensesnitt
 	[pl]:		Aplikacje/Bazy Danych/Interfejsy
-	[pt]:		Aplicações/Bases de Dados/Interfaces
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/âÁÚÙ ÄÁÎÎÙÈ/éÎÔÅÒÆÅÊÓÙ
-	[sl]:		Programi/Zbirke podatkov/Vmesniki
-	[sv]:		Tillämpningar/Databaser/Gränssnitten
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ‘Ğ°Ğ·Ğ¸ Ğ´Ğ°Ğ½Ğ¸Ñ…/Ğ†Ğ½Ñ‚ĞµÑ€Ñ„ĞµĞ¹ÑÑ–
 
 Applications/Dictionaries
-	[cs]:		Aplikace/Slovníky
-	[da]:		Programmer/Ordbøger
 	[de]:		Applikationen/WÃ¶rterbÃ¼cher
-	[es]:		Aplicaciones/Diccionarios
-	[fr]:		Applications/Dictionaires
-	[is]:		Forrit/Orğabókum
-	[it]:		Applicazioni/Dizionari
-	[nb]:		Applikasjoner/Ordbøker
 	[pl]:		Aplikacje/S³owniki
-	[pt]:		Aplicações/Dicionários
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/óÌÏ×ÁÒÉ
-	[sl]:		Programi/Slovarji
-	[sv]:		Tillämpningar/Ordlistor
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ¡Ğ»Ğ¾Ğ²Ğ½Ğ¸ĞºĞ¸
 
 Applications/Editors
-	[cs]:		Aplikace/Editory
-	[da]:		Programmer/Tekstbehandlere
 	[de]:		Applikationen/Editoren
-	[es]:		Aplicaciones/Editores
-	[fr]:		Applications/Editeurs
-	[is]:		Forrit/Ritlar
-	[it]:		Applicazioni/Editor
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¨¥Ç¥£¥¿
-	[nb]:		Applikasjoner/Editorer
 	[pl]:		Aplikacje/Edytory
-	[pt]:		Aplicações/Editores
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/òÅÄÁËÔÏÒÙ
-	[sl]:		Programi/Urejevalniki
-	[sv]:		Tillämpningar/Editorer
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ ĞµĞ´Ğ°ĞºÑ‚Ğ¾Ñ€Ğ¸
 
 Applications/Editors/Emacs
-	[cs]:		Aplikace/Editory/Emacs
-	[da]:		Programmer/Tekstbehandlere/Emacs
 	[de]:		Applikationen/Editoren/Emacs
-	[es]:		Aplicaciones/Editores/Emacs
-	[fr]:		Applications/Editeurs/Emacs
-	[is]:		Forrit/Ritlar/Emacs
-	[it]:		Applicazioni/Editor/Emacs
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¨¥Ç¥£¥¿/Emacs
-	[nb]:		Applikasjoner/Editorer/Emacs
 	[pl]:		Aplikacje/Edytory/Emacs
-	[pt]:		Aplicações/Editores/Emacs
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/òÅÄÁËÔÏÒÙ/Emacs
-	[sl]:		Programi/Urejevalniki/Emacs
-	[sv]:		Tillämpningar/Editorer/Emacs
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ ĞµĞ´Ğ°ĞºÑ‚Ğ¾Ñ€Ğ¸/Emacs
 
 Applications/Editors/Vim
-	[cs]:		Aplikace/Editory/Vim
-	[da]:		Programmer/Tekstbehandlere/Vim
 	[de]:		Applikationen/Editoren/Vim
-	[es]:		Aplicaciones/Editores/Vim
-	[fr]:		Applications/Editeurs/Vim
-	[is]:		Forrit/Ritlar/Vim
-	[it]:		Applicazioni/Editor/Vim
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¨¥Ç¥£¥¿/Vim
-	[nb]:		Applikasjoner/Editorer/Vim
 	[pl]:		Aplikacje/Edytory/Vim
-	[pt]:		Aplicações/Editores/Vim
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/òÅÄÁËÔÏÒÙ/Vim
-	[sl]:		Programi/Urejevalniki/Vim
-	[sv]:		Tillämpningar/Editorer/Vim
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ ĞµĞ´Ğ°ĞºÑ‚Ğ¾Ñ€Ğ¸/Vim
 
 Applications/Editors/XEmacs
-	[cs]:		Aplikace/Editory/XEmacs
-	[da]:		Programmer/Tekstbehandlere/XEmacs
 	[de]:		Applikationen/Editoren/XEmacs
-	[es]:		Aplicaciones/Editores/XEmacs
-	[fr]:		Applications/Editeurs/XEmacs
-	[is]:		Forrit/Ritlar/XEmacs
-	[it]:		Applicazioni/Editor/XEmacs
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¨¥Ç¥£¥¿/XEmacs
-	[nb]:		Applikasjoner/Editorer/XEmacs
 	[pl]:		Aplikacje/Edytory/XEmacs
-	[pt]:		Aplicações/Editores/XEmacs
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/òÅÄÁËÔÏÒÙ/XEmacs
-	[sl]:		Programi/Urejevalniki/XEmacs
-	[sv]:		Tillämpningar/Editorer/XEmacs
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ ĞµĞ´Ğ°ĞºÑ‚Ğ¾Ñ€Ğ¸/XEmacs
 
 Applications/Emulators
-	[da]:		Programmer/Emulatorer
 	[de]:		Applikationen/Emulatoren
-	[es]:		Aplicaciones/Emuladores
-	[fr]:		Applications/Ã‰mulateurs
-	[is]:		Forrit/Hermar
-	[it]:		Applicazioni/Emulatori
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¨¥ß¥å¥ì¡¼¥¿
-	[nb]:		Applikasjoner/Emulatorer
 	[pl]:		Aplikacje/Emulatory
-	[pt]:		Aplicações/Emuladores
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/üÍÕÌÑÔÏÒÙ
-	[sl]:		Programi/Emulatorji
-	[sv]:		Tillämpningar/Emulatorer
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ•Ğ¼ÑƒĞ»ÑÑ‚Ğ¾Ñ€Ğ¸
 
 Applications/Engineering
-	[cs]:		Aplikace/In¾enırské
-	[da]:		Programmer/Ingeniørarbejde
 	[de]:		Applikationen/Technik
-	[es]:		Aplicaciones/Ingeniería
-	[fr]:		Applications/IngÃ©nierie
-	[is]:		Forrit/Verkfræği
-	[it]:		Applicazioni/Engineering
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥¨¥ó¥¸¥Ë¥¢¥ê¥ó¥°
-	[nb]:		Applikasjoner/Teknisk
 	[pl]:		Aplikacje/In¿ynierskie
-	[pt]:		Aplicações/Engenharia
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/éÎÖÅÎÅÒÎÙÅ ĞÒÉÌÏÖÅÎÉÑ
-	[sl]:		Programi/In¾enirstvo
-	[sv]:		Tillämpningar/Konstruktion
 
 Applications/File
-	[cs]:		Aplikace/Práce se soubory
-	[da]:		Programmer/Filer
 	[de]:		Applikationen/Datei
-	[es]:		Aplicaciones/Archivos
-	[fr]:		Applications/Fichiers
-	[is]:		Forrit/Skráatól
-	[it]:		Applicazioni/File
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥Õ¥¡¥¤¥ë
-	[nb]:		Applikasjoner/Fil
 	[pl]:		Aplikacje/Pliki
-	[pt]:		Aplicações/Ficheiros
-	[pt_BR]:	Aplicações/Arquivos
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/æÁÊÌÏ×ÙÅ ÕÔÉÌÉÔÙ
-	[sl]:		Programi/Datoteke
-	[sv]:		Tillämpningar/Fil
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ¤Ğ°Ğ¹Ğ»Ğ¾Ğ²Ñ– ÑƒÑ‚Ğ¸Ğ»Ñ–Ñ‚Ğ¸
 
 Applications/Graphics
-	[cs]:		Aplikace/Grafika
-	[da]:		Programmer/Grafik
 	[de]:		Applikationen/Graphiken
-	[es]:		Aplicaciones/Gráficos
-	[fr]:		Applications/Graphiques
-	[id]:		Aplikasi/Grafik
-	[is]:		Forrit/Myndvinnsla
-	[it]:		Applicazioni/Immagini
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥°¥é¥Õ¥£¥Ã¥¯¥¹
-	[nb]:		Applikasjoner/Grafikk
 	[pl]:		Aplikacje/Grafika
-	[pt]:		Aplicações/Gráficos
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/çÒÁÆÉËÁ
-	[sl]:		Programi/Grafika
-	[sv]:		Tillämpningar/Grafik
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ“Ñ€Ğ°Ñ„Ñ–ĞºĞ°
 
 Applications/Games
-	[cs]:		Aplikace/Hry
-	[da]:		Programmer/Spil
 	[de]:		Applikationen/Spiele
-	[es]:		Aplicaciones/Juegos
-	[fr]:		Applications/Jeux
-	[is]:		Forrit/Leikir
-	[it]:		Applicazioni/Giochi
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥²¡¼¥à
-	[nb]:		Applikasjoner/Spill
 	[pl]:		Aplikacje/Gry
-	[pt]:		Aplicações/Jogos
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/éÇÒÙ
-	[sl]:		Programi/Igre
-	[sv]:		Tillämpningar/Spel
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ†Ğ³Ñ€Ğ¸
-
-Applications/Games/Boards
-	[pl]:		Aplikacje/Gry/Planszowe
 
 Applications/Mail
-	[cs]:		Aplikace/Po¹ta
-	[da]:		Programmer/Post
 	[de]:		Applikationen/Post
-	[es]:		Aplicaciones/Correo Electrónico
-	[fr]:		Applications/Courrier
-	[is]:		Forrit/Póst
-	[it]:		Applicazioni/Posta
-	[nb]:		Applikasjoner/Epost
 	[pl]:		Aplikacje/Poczta
-	[pt]:		Aplicações/Correio Eletrônico
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/üÌÅËÔÒÏÎÎÁÑ ĞÏŞÔÁ
-	[sl]:		Programi/Po¹tna
-	[sv]:		Tillämpningar/Post
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞŸĞ¾ÑˆÑ‚Ğ°
 
 Applications/Math
-	[cs]:		Aplikace/Matematické
-	[da]:		Programmer/Matematik
 	[de]:		Applikationen/Mathematik
-	[es]:		Aplicaciones/Matemáticas
-	[fr]:		Applications/MathÃ©matiques
-	[it]:		Applicazioni/Matematiche
-	[nb]:		Applikasjoner/Matematiske
 	[pl]:		Aplikacje/Matematyczne
-	[pt]:		Aplicações/Matemática
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/íÁÔÅÍÁÔÉŞÅÓËÉÅ
-	[sl]:		Programi/Matematièni
-	[sv]:		Tillämpningar/Matemataisk
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞœĞ°Ñ‚ĞµĞ¼Ğ°Ñ‚Ğ¸ĞºĞ°
 
 Applications/Multimedia
-	[cs]:		Aplikace/Multimédia
-	[da]:		Programmer/Multimedie
 	[de]:		Applikationen/Multimedien
-	[es]:		Aplicaciones/Multimedia
-	[fr]:		Applications/MultimÃ©dia
-	[is]:		Forrit/Margmiğlun
-	[it]:		Applicazioni/Multimedia
-	[ja]:		¥ê¥±¡¼¥·¥ç¥ó/¥Ş¥ë¥Á¥á¥Ç¥£¥¢
-	[nb]:		Programmer/Multimedia
 	[pl]:		Aplikacje/Multimedia
-	[pt]:		Aplicações/Multimédia
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/íÕÌØÔÉÍÅÄÉÁ
-	[sl]:		Programi/Veèpredstavnost
-	[sv]:		Tillämpningar/Multimedia
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞœÑƒĞ»ÑŒÑ‚Ğ¸Ğ¼ĞµĞ´Ñ–Ğ°
 
 Applications/Networking
-	[cs]:		Aplikace/Sí»ové
-	[da]:		Programmer/Netværks
 	[de]:		Applikationen/Netzwerkwesen
-	[es]:		Aplicaciones/Red
-	[fr]:		Applications/RÃ©seau
-	[is]:		Forrit/Net
-	[it]:		Applicazioni/Rete
-	[nb]:		Applikasjoner/Nettverk
 	[pl]:		Aplikacje/Sieciowe
-	[pt]:		Aplicações/Rede
-	[pt_BR]:	Aplicações/Rede
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/óÅÔØ
-	[sl]:		Programi/Omre¾ni
-	[sv]:		Tillämpningar/Nätverk
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞœĞµÑ€ĞµĞ¶Ğ°
 
 Applications/News
-	[cs]:		Aplikace/News
-	[da]:		Programmer/Nyheder
 	[de]:		Applikationen/News
-	[es]:		Aplicaciones/Noticias
-	[fr]:		Applications/Nouvelles
-	[is]:		Forrit/Fréttir
-	[it]:		Applicazioni/News
-	[nb]:		Applikasjoner/News
 	[pl]:		Aplikacje/News
-	[pt]:		Aplicações/News
-	[pt_BR]:	Aplicações/News
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/îÏ×ÏÓÔÉ
-	[sl]:		Programi/Novièarske
-	[sv]:		Tillämpningar/Nyheter
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/ĞĞ¾Ğ²Ğ¸Ğ½Ğ¸
 
 Applications/Printing
-	[cs]:		Aplikace/Tisk
-	[da]:		Programmer/Udskrift
 	[de]:		Applikationen/Drucken
-	[es]:		Aplicaciones/Impresión
-	[fr]:		Applications/Impression
-	[is]:		Forrit/Şróağ
-	[it]:		Applicazioni/Stampa
-	[nb]:		Applikasjoner/Utskrift
 	[pl]:		Aplikacje/Drukowanie
-	[pt]:		Aplicações/Impressão
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/ğÅŞÁÔØ
-	[sl]:		Programi/Tiskanje
-	[sv]:		Tillämpningar/Utskrift
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ”Ñ€ÑƒĞº
 
 Applications/Publishing
-	[cs]:		Aplikace/Publikování
-	[da]:		Programmer/Udgivelse
 	[de]:		Applikationen/Publizieren
-	[es]:		Aplicaciones/Edición
-	[fr]:		Applications/Edition
-	[is]:		Forrit/Umbrot
-	[it]:		Applicazioni/Publishing
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥Ñ¥Ö¥ê¥Ã¥·¥ó¥°
-	[nb]:		Applikasjoner/Publisering
 	[pl]:		Aplikacje/Publikowanie
-	[pt]:		Aplicações/Publicação
-	[pt_BR]:	Aplicações/Editoração
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/ôÉĞÏÇÒÁÆÉÑ
-	[sl]:		Programi/Zalo¾ni¹tvo
-	[sv]:		Tillämpningar/Publicering
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ¢Ğ¸Ğ¿Ğ¾Ğ³Ñ€Ğ°Ñ„Ñ–Ñ
 
 Applications/Publishing/SGML
-	[cs]:		Aplikace/Publikování/SGML
-	[da]:		Programmer/Udgivelse/SGML
 	[de]:		Applikationen/Publizieren/SGML
-	[es]:		Aplicaciones/Edición/SGML
-	[fr]:		Applications/Edition/SGML
-	[is]:		Forrit/Umbrot/SGML
-	[it]:		Applicazioni/Publishing/SGML
-	[ja]:		¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥Ñ¥Ö¥ê¥Ã¥·¥ó¥°/SGML
-	[nb]:		Applikasjoner/Publisering/SGML
 	[pl]:		Aplikacje/Publikowanie/SGML
-	[pt]:		Aplicações/Publicação/SGML
-	[pt_BR]:	Aplicações/Editoração/SGML
-	[ru]:		ğÒÉÌÏÖÅÎÉÑ/éÚÄÁÔÅÌØÓÔ×Ï/SGML
-	[sl]:		Programi/Zalo¾ni¹tvo/SGML
-	[sv]:		Tillämpningar/Publicering/SGML
-	[uk]:		ĞŸÑ€Ğ¸ĞºĞ»Ğ°Ğ´Ğ½Ñ– ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¸/Ğ¢Ğ¸Ğ¿Ğ¾Ğ³Ñ€Ğ°Ñ„Ñ–Ñ/SGML
 
 Applications/Publishing/TeX
 	[cs]:		Aplikace/Publikování/TeX

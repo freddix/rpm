@@ -3,7 +3,7 @@
 Summary:	RPM Package Manager
 Name:		rpm
 Version:	4.5
-Release:	28
+Release:	29
 License:	LGPL
 Group:		Base
 Source0:	%{name}-%{version}.tar.gz
@@ -579,7 +579,7 @@ cat > $RPM_BUILD_ROOT%{_sysconfdir}/rpm/macros <<EOF
 %%_verify_file_context_path	%%{nil}
 
 # If non-zero, all erasures will be automagically repackaged.
-%_repackage_all_erasures	0
+%%_repackage_all_erasures	0
 
 # If non-zero, create debuginfo packages
 #%%_enable_debug_packages	0

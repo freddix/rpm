@@ -52,7 +52,7 @@
 -#%_source_payload	w9.gzdio
 -#%_binary_payload	w9.gzdio
 +%_source_payload	w9.gzdio
-+%_binary_payload	w9.lzdio
++%_binary_payload	w5.lzdio
  
  #	Archive formats to use for source/binary package payloads.
  #		"cpio"		cpio archive (default)
