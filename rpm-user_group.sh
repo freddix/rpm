@@ -42,7 +42,7 @@ testrm() {
 
 groupremove() {
 	local name="$1"
-	local gid=$(getgid "$name" 2>/dev/null)
+	local gid=$(getent group "$name" | cut -d: -f3 2>/dev/null)
 
 	echo "Removing group $name" | $(bannercmd "groupdel-$name")
 	/usr/sbin/groupdel $name || :
@@ -75,7 +75,7 @@ addtogroup() {
 	local user="$1"
 	local group="$2"
 	local uid=$(id -un "$user" 2>/dev/null)
-	local gid=$(getgid "$group" 2>/dev/null)
+	local gid=$(getent group "$name" | cut -d: -f3 2>/dev/null)
 
 	if [ -z "$gid" ]; then
 		if [ "$quiet" ]; then
