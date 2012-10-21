@@ -68,7 +68,7 @@
 +optflags: i386 -O2 -pipe -fno-strict-aliasing -fwrapv -march=i386%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_i386: %{specflags_i386}}}
 +optflags: i486 -O2 -pipe -fno-strict-aliasing -fwrapv -march=i486%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_i486: %{specflags_i486}}}
 +optflags: i586 -O2 -pipe -fno-strict-aliasing -fwrapv -march=i586%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_i586: %{specflags_i586}}}
-+optflags: i686 -O2 -pipe -fno-strict-aliasing -fwrapv -march=i686 -mtune=pentium4%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_i686: %{specflags_i686}}}
++optflags: i686 -O2 -pipe -fno-strict-aliasing -fwrapv -march=prescott -mtune=generic%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_i686: %{specflags_i686}}}
 +optflags: pentium3 -O2 -pipe -fno-strict-aliasing -fwrapv -march=pentium3%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_pentium3: %{specflags_pentium3}}}
 +optflags: pentium4 -O2 -pipe -fno-strict-aliasing -fwrapv -march=pentium4%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_pentium4: %{specflags_pentium4}}}
 +optflags: athlon -O2 -pipe -fno-strict-aliasing -fwrapv -march=athlon%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_athlon: %{specflags_athlon}}}

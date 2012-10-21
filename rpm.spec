@@ -3,7 +3,7 @@
 Summary:	RPM Package Manager
 Name:		rpm
 Version:	4.5
-Release:	31
+Release:	33
 License:	LGPL
 Group:		Base
 Source0:	%{name}-%{version}.tar.gz
@@ -442,6 +442,8 @@ install %{SOURCE10} scripts/php.prov
 install %{SOURCE11} scripts/php.req
 install %{SOURCE13} scripts/perl.prov
 
+sed -i '/AM_C_PROTOTYPES/d' configure.ac
+
 mv -f po/{sr,sr@Latn}.po
 rm -rf sqlite zlib popt
 rm -rf db3 db rpmdb/db.h
@@ -671,8 +673,8 @@ echo >&2 "rpm-lib upgrade: Removing /var/lib/rpm/__db* from older rpmdb version"
 rm -f /var/lib/rpm/__db*
 echo >&2 "You should rebuild your rpmdb: rpm --rebuilddb to avoid random rpmdb errors"
 
-%post	lib -p /sbin/ldconfig
-%postun lib -p /sbin/ldconfig
+%post	lib -p /usr/sbin/ldconfig
+%postun lib -p /usr/sbin/ldconfig
 
 %pretrans build
 find %{_rpmlibdir} -name '*-linux' -type l | xargs rm -f
