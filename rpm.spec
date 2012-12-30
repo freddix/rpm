@@ -3,7 +3,7 @@
 Summary:	RPM Package Manager
 Name:		rpm
 Version:	4.5
-Release:	33
+Release:	35
 License:	LGPL
 Group:		Base
 Source0:	%{name}-%{version}.tar.gz
