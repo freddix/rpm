@@ -3,7 +3,7 @@
 Summary:	RPM Package Manager
 Name:		rpm
 Version:	4.5
-Release:	35
+Release:	36
 License:	LGPL
 Group:		Base
 Source0:	%{name}-%{version}.tar.gz
@@ -117,7 +117,8 @@ Patch91:	%{name}-rpm5-patchset-8637.patch
 Patch92:	%{name}-rpm5-patchset-8413.patch
 # p0
 Patch93:	%{name}-rpm5-patchset-10061.patch
-Patch94:	%{name}-debugedit-backport.patch
+Patch94:	%{name}-rpm5-debugedit.patch
+Patch95:	%{name}-debugedit-dwarf4.patch
 #
 # extra features
 Patch100:	%{name}-pld-autodep.patch
@@ -425,6 +426,7 @@ sources by doxygen.
 %patch92 -p1
 %patch93 -p0
 %patch94 -p1
+%patch95 -p1
 
 # extra features
 %patch100 -p1

@@ -73,7 +73,7 @@
 +optflags: pentium4 -O2 -pipe -fno-strict-aliasing -fwrapv -march=pentium4%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_pentium4: %{specflags_pentium4}}}
 +optflags: athlon -O2 -pipe -fno-strict-aliasing -fwrapv -march=athlon%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32: %{specflags_ia32}}%{?specflags_athlon: %{specflags_athlon}}}
 +optflags: ia64 -O2 -pipe -fno-strict-aliasing -fwrapv%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia64: %{specflags_ia64}}}
-+optflags: x86_64 -O2 -pipe -fno-strict-aliasing -fwrapv -march=core-avx-i%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_x86_64: %{specflags_x86_64}}}
++optflags: x86_64 -O2 -pipe -fno-strict-aliasing -fwrapv -march=nehalem -mtune=generic%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_x86_64: %{specflags_x86_64}}}
 +optflags: amd64 -O2 -pipe -fno-strict-aliasing -fwrapv -march=k8%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_amd64: %{specflags_amd64}}}
 +optflags: ia32e -O2 -pipe -fno-strict-aliasing -fwrapv -march=nocona%{!?nospecflags:%{?specflags: %{specflags}}%{?specflags_ia32e: %{specflags_ia32e}}}
 +
