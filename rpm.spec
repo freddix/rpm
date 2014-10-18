@@ -1,9 +1,10 @@
+# based on PLD Linux spec git://git.pld-linux.org/packages/.git
 %define		sover	4.5
 
 Summary:	RPM Package Manager
 Name:		rpm
 Version:	4.5
-Release:	36
+Release:	37
 License:	LGPL
 Group:		Base
 Source0:	%{name}-%{version}.tar.gz
@@ -656,7 +657,6 @@ rm -f $RPM_BUILD_ROOT%{py_sitedir}/rpm/*.{la,a,py}
 %{__rm} $RPM_BUILD_ROOT%{perl_archlib}/perllocal.pod
 %{__rm} $RPM_BUILD_ROOT%{perl_vendorarch}/RPM.pm
 %{__rm} $RPM_BUILD_ROOT%{perl_vendorarch}/auto/RPM/.packlist
-%{__rm} $RPM_BUILD_ROOT%{perl_vendorarch}/auto/RPM/RPM.bs
 %{__rm} $RPM_BUILD_ROOT%{perl_vendorarch}/auto/RPM/RPM.so
 %{__rm} $RPM_BUILD_ROOT%{_mandir}/man3/RPM.3pm
 %{__rm} $RPM_BUILD_ROOT%{_mandir}/{,ja,pl}/man8/rpm{cache,graph}.8
